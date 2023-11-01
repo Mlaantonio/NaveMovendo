@@ -1,2 +1,2 @@
-# NaveMovendo
+# MovimentoImagens
  Projeto em Java graficos
